@@ -1,0 +1,126 @@
+{
+    "BASE_DATOS": [
+      {
+        "pregunta": "1. Además del `WHERE` en esta cláusula también se coloca una condición",
+        "opciones": {"a": "FROM","b": "ORDER BY","c": "JOIN","d": "Todas"
+        },
+        "respuesta_marcada": "d"
+      },
+      {
+        "pregunta": "2. Cláusula obligatoria en el comando `INSERT`",
+        "opciones": {"a": "WHERE","b": "SELECT","c": "JOIN","d": "Ninguna"
+        },
+        "respuesta_marcada": "d"
+      },
+      {
+        "pregunta": "3. Cláusula que se reconoce por los alias con nombres válidos de las columnas",
+        "opciones": {"a": "WHERE","b": "ORDER BY","c": "Todas","d": "Ninguna"
+        },
+        "respuesta_marcada": "d"
+      },
+      {
+        "pregunta": "4. Función agregada que no puede ser usada con columnas de tipo cadena",
+        "opciones": {
+          "a": "MAX","b": "COUNT","c": "MIN","d": "Todas"
+        },
+        "respuesta_marcada": "a"
+      },
+      {
+        "pregunta": "5. Función de texto que te permite al comando `SELECT` modificar el valor de una columna dentro de la base de datos",
+        "opciones": {"a": "SUBSTRING","b": "LOWER","c": "REPLACE","d": "Ninguna"
+        },
+        "respuesta_marcada": "d"
+      },
+      {
+        "pregunta": "6. Cláusula opcional en una sentencia `SELECT`",
+        "opciones": {"a": "JOIN","b": "HAVING","c": "WHERE","d": "Todas"
+        },
+        "respuesta_marcada": "d"
+      },
+      {
+        "pregunta": "7. Función utilizada para concatenar dos columnas",
+        "opciones": {"a": "CONCAT()","b": "COUNT()","c": "SUM()","d": "Todas"
+        },
+        "respuesta_marcada": "a"
+      },
+      {
+        "pregunta": "8. Cláusula obligatoria en el comando `INSERT`",
+        "opciones": {"a": "SET","b": "SELECT","c": "JOIN","d": "Ninguna"
+        },
+        "respuesta_marcada": "d"
+      },
+      {
+        "pregunta": "9. Permite el uso de subconsultas",
+        "opciones": {"a": "UPDATE","b": "SELECT","c": "DELETE","d": "Todas"
+        },
+        "respuesta_marcada": "d"
+      },
+      {
+        "pregunta": "10. Función de texto que le permite al comando `SELECT` modificar el valor de una columna dentro de la base de datos",
+        "opciones": {
+          "a": "REPLACE","b": "LOWER","c": "SUBSTRING","d": "Ninguna"
+        },
+        "respuesta_marcada": "d"
+      },
+      {
+        "pregunta": "11. Primer lenguaje que consulta a bases de datos en una base de datos relacional",
+        "opciones": {"a": "SQL/86","b": "System R","c": "SEQUEL","d": "Todos"
+        },
+        "respuesta_marcada": "c"
+      },
+      {
+        "pregunta": "12. Primer lenguaje de consulta que puede trabajar con más de dos tablas",
+        "opciones": {"a": "Proyección","b": "Join","c": "Producto Cartesiano","d": "Ninguno"
+        },
+        "respuesta_marcada": "d"
+      },
+      {
+        "pregunta": "13. Es el nivel más importante en la manipulación de la base de datos",
+        "opciones": {"a": "Manipulación","b": "Integridad","c": "Estructural","d": "SQLServer 3.0"
+        },
+        "respuesta_marcada": "d"
+      },
+      {
+        "pregunta": "14. Operación que no requiere tablas equivalentes",
+        "opciones": {"a": "Diferencia de conjuntos","b": "Unión","c": "Reunión","d": "Todos"
+        },
+        "respuesta_marcada": "c"
+      },
+      {
+        "pregunta": "15. Operación algebraica que puede trabajar con tres tablas",
+        "opciones": {"a": "Proyección","b": "Unión","c": "Producto Cartesiano","d": "Ninguno"
+        },
+        "respuesta_marcada": "d"
+      },
+      {
+        "pregunta": "16. Se refiere a las restricciones que deben cumplir las tablas de una base de datos",
+        "opciones": {"a": "Nivel interno","b": "Nivel intermedio","c": "Reunión","d": "Ninguno"
+        },
+        "respuesta_marcada": "d"
+      },
+      {
+        "pregunta": "17. Operaciones que requieren tablas equivalentes",
+        "opciones": {"a": "Producto cartesiano","b": "Diferencia de conjuntos","c": "Reunión","d": "Todos"
+        },
+        "respuesta_marcada": "b"
+      },
+      {
+        "pregunta": "18. Primer lenguaje de consulta de datos",
+        "opciones": {"a": "SQL","b": "SEQUEL","c": "Nivel conceptual","d": "Ninguno"
+        },
+        "respuesta_marcada": "b"
+      },
+      {
+        "pregunta": "19. También es conocido como nivel externo",
+        "opciones": {"a": "Nivel físico","b": "Nivel lógico","c": "Nivel conceptual","d": "Ninguno"
+        },
+        "respuesta_marcada": "d"
+      },
+      {
+        "pregunta": "20. Empresa donde nació el SQL Server",
+        "opciones": {"a": "Microsoft","b": "Sybase","c": "A y B son correctas","d": "Ninguno"
+        },
+        "respuesta_marcada": "c"
+      }
+    ]
+}
